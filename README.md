@@ -15,15 +15,15 @@
 
 <div align="center">
   <a href="https://github.com/nodewilldev">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nodewilldev&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nodewilldev&layout=compact&langs_count=7&theme=dark" />  
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nodewilldev&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nodewilldev&layout=compact&langs_count=7&theme=vue-dark" />  
   </a>
 </div>
 
 <br>
 <br>
 
-<h1 align="center">What i am aware of !!!</h1>
+<h1 align="center">What i am aware of 📦<h1>
 
 <br>
 <br>
@@ -40,7 +40,7 @@
 <br>
 <br>
 
-<h1 align="center" >My social networks</h1>
+<h1 align="center" >My social networks 📱</h1>
 <br>
   <p align="center">
 <a href="https://www.instagram.com/_is_william/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23A4205F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
