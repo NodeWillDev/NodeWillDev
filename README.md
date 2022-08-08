@@ -1,5 +1,4 @@
-<h1 align="center">Hi👋, my name is William</h1>
-<br />
+<h1 align="center">Hi👋, my name is William :star:</h1>
 
 ## **That's me 👦**
 
@@ -11,7 +10,6 @@
 
 ---
 
-<br>
 
 <div align="center">
   <a href="https://github.com/nodewilldev">
@@ -20,13 +18,7 @@
   </a>
 </div>
 
-<br>
-<br>
-
 <h1 align="center">What i am aware of 📦<h1>
-
-<br>
-<br>
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-ffc905?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -37,13 +29,8 @@
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
 </p>
 
-<br>
-<br>
-
 <h1 align="center" >My social networks 📱</h1>
-<br>
   <p align="center">
 <a href="https://www.instagram.com/_is_william/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23A4205F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:williamdasilva.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </p>
-<br>
