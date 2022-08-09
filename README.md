@@ -8,6 +8,8 @@
 
 - ✈ Studying Programming and English.
 
+- ❣ 18 Years
+
 ---
 
 
@@ -30,7 +32,8 @@
 </p>
 
 <h1 align="center" >My social networks 📱</h1>
-  <p align="center">
-<a href="https://www.instagram.com/_is_william/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23A4205F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:williamdasilva.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<p align="center">
+  <a href="https://www.instagram.com/_is_william/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23A4205F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:williamdasilva.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "https://www.linkedin.com/in/william-silva-7b9381248/"><img src="https://img.shields.io/badge/Linkedin-%230077B5?style=for-the-badge&logo=linkedIn&logoColor=white" target="_blank"></a>
 </p>
