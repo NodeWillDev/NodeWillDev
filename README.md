@@ -1,4 +1,6 @@
-<h1 align="center">Hi👋, my name is William :star:</h1>
+<h2 align="center">Hi👋, my name is <i>William</i> :star:</h2>
+
+<br>
 
 ## **That's me 👦**
 
