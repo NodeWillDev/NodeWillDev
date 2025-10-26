@@ -1,6 +1,6 @@
 <div align="center">
   
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=William%20Silva&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=40" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=William%20Da%20Silva&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=40" alt="Header" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=💻+Full+Stack+Developer;🔥+Apaixonado+por+Tecnologia;🚀+Sempre+aprendendo+algo+novo;⚡+Criando+o+futuro+com+código;💡+Transformando+ideias+em+realidade" alt="Typing SVG" />
 
