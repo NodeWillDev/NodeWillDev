@@ -93,7 +93,7 @@ const william = {
 ## 🏆 **Conquistas & Trophies**
 
 <div align="center">
-  [![trophy](https://github-profile-trophy.vercel.app/?username=NodeWillDev&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=NodeWillDev&column=9&theme=gruvbox&no-frame=true"/>
 </div>
 
 ---
