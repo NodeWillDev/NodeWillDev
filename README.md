@@ -1,175 +1,272 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:0D1117,35:1F6FEB,100:58A6FF&text=William%20Silva&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=58" alt="Header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0D1117,50:161B22,100:1F6FEB&text=WILLIAM%20SILVA&fontColor=F0F6FC&fontSize=42&fontAlignY=35&desc=FULL%20STACK%20DEVELOPER&descSize=15&descAlignY=55&animation=fadeIn" alt="William Silva" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1400&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Development;SaaS+%26+Web+Applications;Backend+%2B+Database+%2B+Business+Logic;TypeScript+%2F+React+%2F+Next.js;Supabase+%2F+PostgreSQL" alt="Typing SVG" />
-
-
-<a href="https://github.com/NodeWillDev">
-  <img src="https://img.shields.io/badge/GitHub-NodeWillDev-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-</a>
 <a href="https://nodewilldev.github.io/my-portfolio/">
-  <img src="https://img.shields.io/badge/Portfolio-Online-0A66C2?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=flat-square&logo=vercel&logoColor=ffffff" alt="Portfolio"/>
+</a>
+<a href="https://github.com/NodeWillDev">
+  <img src="https://img.shields.io/badge/GITHUB-0D1117?style=flat-square&logo=github&logoColor=ffffff" alt="GitHub"/>
 </a>
 <a href="https://www.linkedin.com/in/william-silva-7b9381248/">
-  <img src="https://img.shields.io/badge/LinkedIn-William%20Silva-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=flat-square&logo=linkedin&logoColor=ffffff" alt="LinkedIn"/>
+</a>
+<a href="https://www.instagram.com/_is_william/">
+  <img src="https://img.shields.io/badge/INSTAGRAM-0D1117?style=flat-square&logo=instagram&logoColor=ffffff" alt="Instagram"/>
 </a>
 <a href="mailto:williamdasilva.dev@gmail.com">
-  <img src="https://img.shields.io/badge/E--mail-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="E-mail" />
+  <img src="https://img.shields.io/badge/EMAIL-0D1117?style=flat-square&logo=gmail&logoColor=ffffff" alt="Email"/>
 </a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Full+Stack+Development;SaaS+%26+Web+Applications;Backend+%E2%80%A2+Database+%E2%80%A2+Business+Logic;TypeScript+%E2%80%A2+React+%E2%80%A2+Next.js;Supabase+%E2%80%A2+PostgreSQL" alt="Typing SVG"/>
 
 </div>
 
-About
-Desenvolvo aplicações web e sistemas SaaS com foco em frontend, backend, banco de dados, autenticação, autorização e regras de negócio.
-Hoje, meu trabalho gira principalmente em torno de TypeScript, React, Next.js, Node.js, Supabase e PostgreSQL, construindo sistemas que precisam lidar com multi-tenant, segurança, controle de acesso e processos operacionais reais.
-Main stack
-<div align="center">
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,tailwind,supabase,postgres,git,github,vercel&theme=dark" alt="Main Stack" />
-</a>
-
-</div>
+<br/>
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="60%" valign="top">
 
-Core
-- TypeScript
-- JavaScript
-- React
-- Next.js
-- Node.js
-- Tailwind CSS
+### `01 — WHOAMI`
+
+Sou **Full Stack Developer** de Santa Catarina, Brasil.
+
+Desenvolvo aplicações web e sistemas SaaS trabalhando entre **frontend, backend, banco de dados, autenticação, autorização e regras de negócio**.
+
+Meu foco atual está em sistemas construídos com **TypeScript, React, Next.js, Node.js, Supabase e PostgreSQL**, principalmente aplicações com múltiplos usuários, contexto por empresa e controle de acesso.
+
 </td>
-<td width="33%" valign="top">
+<td width="40%" valign="top">
 
-Data & APIs
-- Supabase
-- PostgreSQL
-- SQL
-- SWR
-- REST APIs
-- External APIs
-</td>
-<td width="33%" valign="top">
+### `CURRENT`
 
-Tools
-- Git
-- GitHub
-- Vercel
-- Font Awesome
+```text
+ROLE        Full Stack Developer
+FOCUS       SaaS / Web Applications
+BACKEND     Node.js / Next.js
+DATABASE    PostgreSQL / Supabase
+LOCATION    Santa Catarina, BR
+```
+
 </td>
 </tr>
 </table>
 
-Experiência adicional: MySQL · Prisma · TypeORM · Electron · JWT · JSONB · Row Level Security · PocketMine-MP
-What I build
+<br/>
+
+<div align="center">
+
+## `02 — TROPHIES`
+
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=NodeWillDev&theme=onedark&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=-1" alt="GitHub Trophies"/>
+
+</div>
+
+<br/>
+
+## `03 — STACK`
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,tailwind,supabase,postgres,mysql,git,github,vercel&theme=dark&perline=12" alt="Tech Stack"/>
+
+<br/><br/>
+
+`TypeScript` &nbsp; `JavaScript` &nbsp; `React` &nbsp; `Next.js` &nbsp; `Node.js` &nbsp; `Tailwind CSS`
+
+`Supabase` &nbsp; `PostgreSQL` &nbsp; `SQL` &nbsp; `SWR` &nbsp; `Git` &nbsp; `Vercel`
+
+<br/>
+
+<sub>
+Additional experience · Prisma · TypeORM · MySQL · Electron · JWT · JSONB · REST APIs · Row Level Security · PocketMine-MP
+</sub>
+
+</div>
+
+<br/>
+
+## `04 — FEATURED BUILD`
+
 <table>
 <tr>
-<td width="50%" valign="top">
+<td valign="top">
 
-SaaS & Multi-tenant
-Aplicações com contexto por empresa, isolamento de dados, histórico, permissões e controle de acesso.
-</td>
-<td width="50%" valign="top">
+### 🍽️ Restaurante Online
 
-Backend & Business Logic
-APIs, validações, regras operacionais, persistência, estados e fluxos que precisam funcionar com consistência.
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+**SaaS multiempresa · Em desenvolvimento**
 
-Auth & Security
-Supabase Auth, JWT, roles, claims, sessões, permissões e Row Level Security.
-</td>
-<td width="50%" valign="top">
+Sistema para estabelecimentos do setor de alimentação, desenvolvido para centralizar processos como **mesas, sessões, pedidos, estoque, colaboradores e controle operacional**.
 
-Database Design
-PostgreSQL, modelagem relacional, constraints, índices, JSONB, RPCs e integridade de dados.
+Um dos principais desafios arquiteturais do projeto é transformar um **QR Code físico e permanente** em um fluxo de acesso seguro e temporário.
+
+```text
+QR Code
+   ↓
+Table
+   ↓
+Active Session
+   ↓
+User
+   ↓
+Permission
+   ↓
+Order
+```
+
+O sistema trabalha com clientes e funcionários entrando em sessões existentes, usuários anônimos, histórico de consumo, contexto por empresa e validações de autorização.
+
+Parte das regras também é executada no PostgreSQL através de **RPCs**, incluindo validação de mesas e sessões, cancelamentos, limpeza de usuários e agregações com `JSONB`.
+
+<br/>
+
+**Stack**
+
+`Next.js` · `React` · `TypeScript` · `Tailwind CSS` · `Supabase` · `PostgreSQL` · `SWR` · `Vercel`
+
 </td>
 </tr>
 </table>
 
-Featured project
-Restaurante Online
-<img src="https://img.shields.io/badge/Status-Em%20desenvolvimento-238636?style=flat-square" alt="Status" />
-<img src="https://img.shields.io/badge/Tipo-SaaS-1F6FEB?style=flat-square" alt="Tipo" />
-<img src="https://img.shields.io/badge/Arquitetura-Multiempresa-8957E5?style=flat-square" alt="Arquitetura" />
+<br/>
 
-Sistema em desenvolvimento para estabelecimentos do setor de alimentação, pensado para organizar a operação em torno de mesas, sessões, pedidos, estoque, colaboradores e permissões.
-O que ele resolve
-- pedidos espalhados;
-- comandas em papel;
-- dificuldade para localizar pedidos;
-- operação lenta;
-- processos difíceis de acompanhar.
-O que estou trabalhando no produto
-- gestão de mesas e sessões;
-- pedidos e histórico de consumo;
-- QR Codes vinculados às mesas;
-- usuários autenticados e anônimos;
-- contexto de empresa;
-- autenticação, permissões e controle de acesso;
-- regras operacionais no backend e no banco.
-Arquitetura que se destaca
-Uma das partes mais importantes do sistema é o acesso por QR Codes físicos, exigindo validação de mesa, sessão ativa, usuário, permissão e autorização.
-Para isso, também trabalhei com RPCs para validar mesas e sessões, cancelar sessões, limpar usuários e retornar erros estruturados, além de agregações com JSONB.
-Stack: Next.js · React · TypeScript · Tailwind CSS · Supabase · PostgreSQL · SWR · Vercel
-Selected projects
-Projeto	Descrição	Stack / Conceitos
-minecraft-auth-registry	Sistema de autenticação e registro de usuários para servidores Minecraft.	TypeScript · Node.js · TypeORM · MySQL · APIs
-shopping-cart	Aplicação web de carrinho de compras com persistência de dados.	Next.js · TypeScript · Prisma · MySQL
-chat-realtime	Projeto de comunicação em tempo real com separação entre frontend e backend.	TypeScript · APIs · Realtime
-minecraft-ban-registry	Histórico de banimentos para servidores Minecraft.	TypeScript · Backend · APIs
-bitcoin-monitoring	Projeto experimental de monitoramento de Bitcoin.	Node.js · Electron · CoinMarketCap API
+## `05 — SELECTED PROJECTS`
 
+<table>
+<tr>
+<td width="50%" valign="top">
 
-GitHub overview
+### [minecraft-auth-registry](https://github.com/NodeWillDev/minecraft-auth-registry)
+
+Sistema de autenticação e registro de usuários para servidores Minecraft.
+
+`TypeScript` `Node.js` `TypeORM` `MySQL` `API`
+
+</td>
+<td width="50%" valign="top">
+
+### [shopping-cart](https://github.com/NodeWillDev/shopping-cart)
+
+Aplicação web de carrinho de compras com persistência utilizando ORM e banco relacional.
+
+`Next.js` `TypeScript` `Prisma` `MySQL`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### [chat-realtime](https://github.com/NodeWillDev/chat-realtime)
+
+Aplicação voltada à comunicação em tempo real e integração entre frontend e backend.
+
+`TypeScript` `API` `Realtime`
+
+</td>
+<td width="50%" valign="top">
+
+### [minecraft-ban-registry](https://github.com/NodeWillDev/minecraft-ban-registry)
+
+Backend para registro e consulta de histórico de banimentos em servidores Minecraft.
+
+`TypeScript` `Backend` `API` `PocketMine-MP`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
 <div align="center">
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NodeWillDev&theme=github_dark" alt="Profile Details" />
+## `06 — TELEMETRY`
 
+<img width="97%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NodeWillDev&theme=github_dark" alt="GitHub Profile Details"/>
 
+<br/>
 
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NodeWillDev&theme=github_dark" alt="GitHub Stats"/>
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NodeWillDev&theme=github_dark" alt="Languages"/>
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NodeWillDev&theme=github_dark" alt="Stats" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NodeWillDev&theme=github_dark" alt="Top Languages" />
+<br/><br/>
 
-
-
-
-<img src="https://streak-stats.demolab.com?user=NodeWillDev&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+<img width="97%" src="https://github-readme-activity-graph.vercel.app/graph?username=NodeWillDev&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=F0F6FC&area=true&area_color=1F6FEB&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY" alt="Contribution Activity"/>
 
 </div>
 
-Contributions
+<br/>
+
+## `07 — ENGINEERING AREAS`
+
+<table>
+<tr>
+<td width="25%" align="center">
+
+### Backend
+APIs  
+Business Logic  
+Integrations  
+
+</td>
+<td width="25%" align="center">
+
+### Database
+PostgreSQL  
+Relational Design  
+JSONB / RPCs  
+
+</td>
+<td width="25%" align="center">
+
+### Security
+Authentication  
+Authorization  
+RLS / Roles  
+
+</td>
+<td width="25%" align="center">
+
+### Architecture
+SaaS  
+Multi-tenant  
+Data Isolation  
+
+</td>
+</tr>
+</table>
+
+<br/>
+
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/NodeWillDev/NodeWillDev/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+## `08 — CONNECT`
 
-</div>
+<a href="https://github.com/NodeWillDev">
+  <img src="https://img.shields.io/badge/GitHub-NodeWillDev-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://nodewilldev.github.io/my-portfolio/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-1F6FEB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="https://www.linkedin.com/in/william-silva-7b9381248/">
+  <img src="https://img.shields.io/badge/LinkedIn-William%20Silva-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 
-<!-- Para o snake funcionar, é necessário gerar o SVG com Platane/snk via GitHub Actions no repositório de perfil. -->
+<br/><br/>
 
-Links
-<div align="center">
+<a href="mailto:williamdasilva.dev@gmail.com">
+  <img src="https://img.shields.io/badge/williamdasilva.dev%40gmail.com-0D1117?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
-<a href="https://github.com/NodeWillDev">GitHub</a>
- • 
-<a href="https://nodewilldev.github.io/my-portfolio/">Portfolio</a>
- • 
-<a href="https://www.linkedin.com/in/william-silva-7b9381248/">LinkedIn</a>
- • 
-<a href="https://www.instagram.com/_is_william/">Instagram</a>
- • 
-<a href="mailto:williamdasilva.dev@gmail.com">E-mail</a>
-</div>
+<br/><br/>
 
+<sub>William Silva · NodeWillDev · Full Stack Developer</sub>
 
-<div align="center">
-  <sub>William Silva · Full Stack Developer · Santa Catarina, Brasil</sub>
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:1F6FEB,50:161B22,100:0D1117" alt="Footer"/>
+
 </div>
